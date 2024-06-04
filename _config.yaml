@@ -1,21 +1,43 @@
 # site properties and page defaults
-title: RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.
+title: Tabula Rasa Lab
 subtitle: 
-description: 
+description: Unraveling brain tumors and neurogenetic diseases using computational genomics. Translating discovery and biomarkers to improve patient care.
 header: images/background.jpg
 footer: images/background.jpg
-proofer: false
+header-dark: false
+footer-dark: true
+proofer: true
 
 # site social media and other links
 links:
-  email: contact@RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: dhawana@ccf.org 
+  orcid: 0000-0002-5027-1277
+  google-scholar: j6jXXfwAAAAJ
+  github: andrewdhawan
+  twitter: andrewdhawan
+
+# navigation links
+nav:
+  - title: Publications
+    url: /publications/
+    order: 1
+  - title: Research
+    url: /research/
+    order: 2
+  - title: Blog
+    url: https://andrewdhawan.wordpress.com/2019/09/15/on-hoofbeats/
+    order: 3
+  - title: Team
+    url: /team/
+    order: 4
+  - title: Join
+    url: /contact/
+    order: 5
 
 ### jekyll settings
+
+watch: true
+force_polling: true
 
 # front matter defaults
 defaults:
