@@ -8,6 +8,8 @@ header-dark: false
 footer-dark: true
 proofer: true
 
+baseurl: "/Lab-Website"
+
 # site social media and other links
 links:
   email: dhawana@ccf.org 
