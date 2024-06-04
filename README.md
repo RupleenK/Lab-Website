@@ -1,5 +1,5 @@
 
-# RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+Lab Website
 
 Visit **[rupleenk.github.io/Lab-Website](https://rupleenk.github.io/Lab-Website)** 🚀
 
