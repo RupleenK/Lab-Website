@@ -9,7 +9,7 @@ nav:
 
 <div style="display: flex; align-items: flex-start; margin-top: 20px;">
   <div style="flex: 1; padding-right: 20px;">
-    <img src="/images/dhawana.jpg" alt="Dr. Dhawan" style="max-width: 100%; height: auto;">
+    <img src="Lab-Website/images/dhawana.jpg" alt="Dr. Dhawan" style="max-width: 100%; height: auto;">
   </div>
   <div style="flex: 2; text-align: left;">
     <p style="line-height: 1.5; margin-bottom: 1em;">A mathematician and computer scientist turned neuro-oncologist, Dr. Dhawan uses his background in data science to more accurately diagnose, treat and prognosticate neurological diseases. He holds appointments in Cleveland Clinic’s Lerner Research Institute and Taussig Cancer Center, where he is assistant staff in the Rose Ella Burkhardt Brain Tumor and Neuro-Oncology Center. Dr. Dhawan’s research approach is interdisciplinary, having learned from experts in cancer biology, non-coding RNA biology, and evolutionary biology, alongside bioinformatics, data science, and applied mathematics. He has established the first suite of statistical metrics in a simple computational tool (sigQC) for the systematic evaluation of gene signature quality, now used by researchers worldwide for translational science. Dr. Dhawan collaborates with multiple researchers and physicians at Cleveland Clinic and other institutions on ongoing research projects for diseases including glioblastoma, glioma, meningioma, PTEN hamartoma tumor syndrome, tuberous sclerosis complex and leptomeningeal carcinomatosis.</p>
