@@ -46,6 +46,8 @@
   </nav>
 </header>
 
+<img src="{{ 'images/background.jpg' | relative_url }}" alt="Background Image" class="background-image">
+
 <style>
 .header {
   background-color: #001f3f; /* Dark navy background */
@@ -53,7 +55,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  color: white; /* Ensure the header text color is white */
 }
 .header .home {
   display: flex;
@@ -66,8 +67,8 @@
   max-height: 40px; /* Adjust logo size as needed */
 }
 .header .title {
+  color: white;
   margin-left: 10px; /* Adjust left margin for text */
-  color: white; /* Explicitly set the title text color to white */
 }
 .header nav {
   display: flex;
@@ -77,5 +78,10 @@
   color: white;
   margin: 0 10px;
   text-decoration: none;
+}
+.background-image {
+  width: 100%;
+  display: block;
+  margin-top: 20px; /* Optional: adjust spacing as needed */
 }
 </style>
