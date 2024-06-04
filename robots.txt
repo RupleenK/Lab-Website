@@ -1,1 +1,1 @@
-Sitemap: https://rupleenk.github.io/Lab-Website/sitemap.xml
+Sitemap: /Lab-Website/sitemap.xml
