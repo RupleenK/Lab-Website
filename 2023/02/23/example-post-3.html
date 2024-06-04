@@ -62,10 +62,10 @@
 
   <meta name="author" content="john-doe">
   <meta property="og:type" content="article">
-  <meta property="og:updated_time" content="2024-06-04T22:24:00+00:00">
+  <meta property="og:updated_time" content="2024-06-04T22:24:51+00:00">
   <meta property="article:published_time" content="2023-02-23T00:00:00+00:00">
-  <meta property="article:modified_time" content="2024-06-04T22:24:00+00:00">
-  <meta name="revised" content="2024-06-04T22:24:00+00:00">
+  <meta property="article:modified_time" content="2024-06-04T22:24:51+00:00">
+  <meta name="revised" content="2024-06-04T22:24:51+00:00">
 
 
 <script type="application/ld+json">
@@ -75,7 +75,7 @@
       "@type": "BlogPosting",
       "author": { "@type": "Person", "name": "Example post 3" },
       "datePublished": "2023-02-23T00:00:00+00:00",
-      "dateModified": "2024-06-04T22:24:00+00:00",
+      "dateModified": "2024-06-04T22:24:51+00:00",
     
     "name": "Example post 3",
     "description": "",
@@ -322,10 +322,7 @@
 
 
 
-
-
-
-<header class="background" style="--image: url('/Lab-Website/images/background.jpg')" data-dark="true">
+<header class="header">
   <a href="/Lab-Website/" class="home">
     
       <span class="logo">
@@ -392,9 +389,9 @@
       </span>
     
     
-      <span class="title-text" data-tooltip="Home">
+      <span class="title" data-tooltip="Home">
         
-          <span class="title">RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.</span>
+          <span>RupleenKDESCRIPTION=An engaging 1-3 sentence description of your lab.</span>
         
         
       </span>
@@ -436,8 +433,45 @@
         </a>
       
     
+    <a href="https://andrewdhawan.wordpress.com/2019/09/15/on-hoofbeats/" target="_blank">
+      Blog
+    </a>
   </nav>
 </header>
+
+<style>
+.header {
+  background-color: #001f3f; /* Dark navy background */
+  padding: 20px 30px; /* Increase padding for more width */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white; /* Ensure the header text color is white */
+}
+.header .home {
+  display: flex;
+  align-items: center;
+}
+.header .logo {
+  margin-right: 10px; /* Add space between logo and text */
+}
+.header .logo img {
+  max-height: 40px; /* Adjust logo size as needed */
+}
+.header .title {
+  margin-left: 10px; /* Adjust left margin for text */
+  color: white; /* Explicitly set the title text color to white */
+}
+.header nav {
+  display: flex;
+  align-items: center;
+}
+.header nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+}
+</style>
 
     <main>
       <!--
@@ -662,7 +696,13 @@
     </a>
   </div>
 
-  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+  <!-- <input
+    type="checkbox"
+    class="dark-toggle"
+    data-tooltip="Dark mode"
+    aria-label="toggle dark mode"
+    oninput="onDarkToggleChange(event)"
+  > -->
 </footer>
 
   </body>
