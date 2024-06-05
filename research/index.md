@@ -12,7 +12,7 @@ The Tabula Rasa lab develops, validates, and implements biomarkers for neuro-onc
 ## Gene Signatures and Non-Coding RNA
 
 <figure style="float: right; margin-left: 10px; margin-right: 10px; max-width: 60%;">
-  <img src="/Lab-website/images/genesig.jpg" alt="Gene Signature" style="width: 90%; height: auto;">
+  <img src="/Lab-Website/images/genesig.jpg" alt="Gene Signature" style="width: 90%; height: auto;">
   <figcaption style="font-size: 0.8em;">Overview of approach used to identify hallmarks-associated miRNA and gene signatures</figcaption>
 </figure>
 
@@ -23,7 +23,7 @@ We seek to identify new gene signatures, and new methods of developing gene sign
 ## Disease Risk Assessment and Prediction
 
 <figure style="float: left; margin-left: 20px; max-width:50%;">
-  <img src="/drugresponse.jpg" alt="Drug Response" style="width: 100%; height: auto;">
+  <img src="/Lab-Website/drugresponse.jpg" alt="Drug Response" style="width: 100%; height: auto;">
   <figcaption style="font-size: 0.8em;">Drug Collateral Sensitivity Network</figcaption>
 </figure>
 
@@ -33,7 +33,7 @@ In addition to clinical data, we also seek to use wearable devices in patient ca
 ## Clinical and Translational Research
 
 <figure style="float: right; margin-left: 50px; max-width: 60%;">
-  <img src="/pten.jpeg" alt="Clinical Research" style="width: 100%; height: auto;">
+  <img src="/Lab-Website/pten.jpeg" alt="Clinical Research" style="width: 100%; height: auto;">
   <figcaption style="font-size: 0.8em;">Clinical findings in patients with PTEN hamartoma tumor syndrome</figcaption>
 </figure>
 
