@@ -1,6 +1,7 @@
 ---
 name: Asad Rauf
 image: images/asad-rauf.jpg
+description: Resident
 role: Researcher, Internal Medicine Resident
 group: 
 links:
