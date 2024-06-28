@@ -1,6 +1,6 @@
 ---
 name: Sophie Lu
-image: images/sophie_lu.jpg
+image: images/sophie_lu.jpeg
 description: Medical Student
 role: 
 links:
