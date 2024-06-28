@@ -1,7 +1,8 @@
 ---
 name: Robert Shue
 image: images/robert-shue.jpg
-role: Medical Student
+description: Medical Student
+role: 
 group: 
 links:
   email: ...
