@@ -1,7 +1,8 @@
 ---
 name: Masahiro Hitomi
 image: images/masahiro.png
-role: Research Scientist
+description: Project Scientist
+role: Project Scientist
 group: 
 links:
   email: ...
