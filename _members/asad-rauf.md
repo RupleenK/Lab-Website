@@ -1,7 +1,7 @@
 ---
 name: Asad Rauf
 image: images/asad-rauf.jpg
-description: Researcher, Internal Medicine Resident
+role: Researcher, Internal Medicine Resident
 group: 
 links:
   email: asadarauf@gmail.com
