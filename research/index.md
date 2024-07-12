@@ -23,7 +23,7 @@ We seek to identify new gene signatures, and new methods of developing gene sign
 ## Disease Risk Assessment and Prediction
 
 <figure style="float: left; margin-left: 20px; max-width:50%;">
-  <img src="Lab-Website/blob/main/images/drugresponse.jpg" alt="Drug Response" style="width: 100%; height: auto;">
+  <img src="/Lab-Website/blob/main/images/drugresponse.jpg" alt="Drug Response" style="width: 100%; height: auto;">
   <figcaption style="font-size: 0.8em;">Drug Collateral Sensitivity Network</figcaption>
 </figure>
 
