@@ -12,7 +12,7 @@ The Tabula Rasa lab develops, validates, and implements biomarkers for neuro-onc
 ## Gene Signatures and Non-Coding RNA
 
 <figure style="float: right; margin-left: 10px; margin-right: 10px; max-width: 60%;">
-  <img src="/Lab-Website/research/genesig.jpg" alt="Gene Signature" style="width: 90%; height: auto;">
+  <img src="../images/genesig.jpg" alt="Gene Signature" style="width: 90%; height: auto;">
   <figcaption style="font-size: 0.8em;">Overview of approach used to identify hallmarks-associated miRNA and gene signatures</figcaption>
 </figure>
 
