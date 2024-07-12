@@ -33,7 +33,7 @@ In addition to clinical data, we also seek to use wearable devices in patient ca
 ## Clinical and Translational Research
 
 <figure style="float: right; margin-left: 50px; max-width: 60%;">
-  <img src="/Lab-Website/images/pten.jpeg" alt="Clinical Research" style="width: 100%; height: auto;">
+  <img src="/images/pten.jpeg" alt="Clinical Research" style="width: 100%; height: auto;">
   <figcaption style="font-size: 0.8em;">Clinical findings in patients with PTEN hamartoma tumor syndrome</figcaption>
 </figure>
 
