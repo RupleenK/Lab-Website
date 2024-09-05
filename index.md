@@ -48,11 +48,12 @@ title: "Home"
   <div class="news-container">
     <h2>Lab News</h2>
    <iframe src="news.html"></iframe>
-      </div>
   </div>
+</div>
+
+## Gallery
 
 <div class="gallery">
   <img src="images/lab-image-1.jpg" alt="Lab Image 1">
   <img src="images/lab-image-2.jpg" alt="Lab Image 2">
 </div>
-  
