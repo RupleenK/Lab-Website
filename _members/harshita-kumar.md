@@ -1,7 +1,7 @@
 ---
 name: Harshita Kumar
 image: images/harshita.jpg
-description: Research Technician
+description: Masters Student
 role: 
 links:
   email: ...
