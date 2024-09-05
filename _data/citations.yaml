@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1212/NXG.0000000000200182
+  title: Clinical Approach to Genetic Cerebral Arteriopathy in the Adult Patient With
+    Ischemic Stroke
+  authors:
+  - Eliot N. Haddad
+  - Pranav Kumar
+  - Galen Shearn-Nance
+  - G. Abbas Kharal
+  - Andrew Dhawan
+  publisher: Neurology Genetics
+  date: '2024-10-01'
+  link: https://doi.org/gt7vck
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11060-024-04787-z
+  title: 'Tumor-related epilepsy in high-grade glioma: a large series survival analysis'
+  authors:
+  - Ryan G. Rilinger
+  - Lydia Guo
+  - Akshay Sharma
+  - Josephine Volovetz
+  - Nicolas R. Thompson
+  - Matthew Grabowski
+  - Mina Lobbous
+  - Andrew Dhawan
+  publisher: Journal of Neuro-Oncology
+  date: '2024-08-05'
+  link: https://doi.org/gt6s94
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/2024.05.04.592546
   title: Homologous recombination promotes mitotic death to suppress the innate immune
     response
