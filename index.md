@@ -50,4 +50,9 @@ title: "Home"
    <iframe src="news.html"></iframe>
       </div>
   </div>
+
+<div class="gallery">
+  <img src="images/lab-image-1.jpg" alt="Lab Image 1">
+  <img src="images/lab-image-2.jpg" alt="Lab Image 2">
+</div>
   
