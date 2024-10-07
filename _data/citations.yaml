@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1212/WNL.0000000000209844
+  title: Clinical Neurologic Features and Evaluation of PTEN Hamartoma Tumor Syndrome
+  authors:
+  - Andrew Dhawan
+  - Sarah Baitamouni
+  - Darren Liu
+  - Charis Eng
+  publisher: Neurology
+  date: '2024-10-08'
+  link: https://doi.org/gxv8kr
+  orcid: 0000-0002-5027-1277
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1212/NXG.0000000000200182
   title: Clinical Approach to Genetic Cerebral Arteriopathy in the Adult Patient With
     Ischemic Stroke
