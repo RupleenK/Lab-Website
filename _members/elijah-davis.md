@@ -4,7 +4,7 @@ image: images/elijah.jpg
 description: Undergraduate Student
 role: 
 links:
-  email: erd72@case.edu
+  email: erd72 AT case.edu
   twitter: ...
   ORCID: ...
 ---
