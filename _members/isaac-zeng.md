@@ -4,7 +4,7 @@ image: images/isaac.jpg
 description: Master's Student
 role: 
 links:
-  email: yxz3103@case.edu
+  email: yxz3103 AT case.edu
   twitter: ...
   ORCID: ...
 ---
