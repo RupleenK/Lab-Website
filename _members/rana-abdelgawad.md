@@ -4,7 +4,7 @@ image: images/rana.jpg
 description: Graduate Student
 role: 
 links:
-  email: rxa552@case.edu
+  email: rxa552 AT case.edu
   twitter: ...
   ORCID: ...
 ---
