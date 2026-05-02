@@ -4,7 +4,7 @@ image: images/tommy-n.jpg
 description: MD-PhD Student
 role: 
 links:
-  email: thn40@case.edu
+  email: thn40 AT case.edu
   twitter: ...
   ORCID: ...
 ---
