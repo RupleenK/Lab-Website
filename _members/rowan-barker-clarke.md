@@ -4,7 +4,7 @@ image: images/rowan.jpg
 description: Post-Doc
 role: 
 links:
-  email: rowanbarkerclarke@gmail.com
+  email: rowanbarkerclarke AT gmail.com
   twitter: MathEvoRowan
 ---
 
