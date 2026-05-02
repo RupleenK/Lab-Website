@@ -4,7 +4,7 @@ image: images/eli-newby.jpg
 description: Post-Doc
 role: 
 links:
-  email: eli.newby@outlook.com
+  email: eli.newby AT outlook.com
   twitter: ...
   ORCID: ...
 ---
