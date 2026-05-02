@@ -4,7 +4,7 @@ image: images/derick.jpg
 description: Graduate Student
 role: 
 links:
-  email: dufried@ccf.org
+  email: dufried AT ccf.org
   twitter: ...
   ORCID: ...
 ---
