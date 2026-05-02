@@ -4,7 +4,7 @@ image: images/tommy-m.jpg
 description: CCLCM medical student
 role: 
 links:
-  email: thn40@case.edu
+  email: thn40 AT case.edu
   twitter: ...
   ORCID: ...
 ---
