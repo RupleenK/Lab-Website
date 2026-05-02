@@ -4,7 +4,7 @@ image: images/gurnek.jpg
 description: Undergraduate
 role: 
 links:
-  email: gsp35@case.edu
+  email: gsp35 AT case.edu
   twitter: ...
   ORCID: ...
 ---
